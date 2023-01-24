@@ -1,0 +1,44 @@
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid rgb(17, 183, 61);
+}
+
+.time-block {
+  text-align: center;
+  border-radius: 15px;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid white;
+}
+
+.inputText{
+  background: #eee;
+  height: 80px;
+  border-left: rgba(17, 119, 167, 0.467);
+  padding: 20px;
+}
+
+.btn{
+
+  height: 80px;
+}
+
+.row{
+  margin-bottom: 1px;
+}
+
+.hour{
+  border-top: 1px dotted rgb(19, 156, 235);
+  padding-top: 30px;
+}
+
+.inputcontent{
+  margin-left: -20px;
+  margin-right: -28px;
+}
